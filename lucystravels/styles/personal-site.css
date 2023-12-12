@@ -14,7 +14,7 @@ h2 {
 
 .home-title,
 .msg h2 {
-    font-family: Courier New;
+    font-family: Roboto Slab;
 }
 
 #content {
@@ -63,6 +63,7 @@ header {
     background-color: #396E94;
     display: grid;
     grid-template-columns: 150px auto;
+    font-family: Roboto Slab;
 }
 
 nav a:hover {
@@ -136,11 +137,11 @@ footer p a:hover {
 }
 
 .msg h2 {
-    font-family: Arial, Helvetica, sans-serif
+    font-family: Robot Slab; 
 }
 
 #hero-msg {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Roboto Slab;
     text-align: center;
     grid-column: 2/3;
     grid-row: 1/2;
@@ -189,7 +190,7 @@ footer .social img {
 .description {
     padding: 170px;
     font-size: 25pt;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Roboto Slab;
 }
 
 button.info-button {
@@ -197,7 +198,7 @@ button.info-button {
     width: 250px;
     border-radius: 20px;
     font-size: 21pt;
-    font-family: Arial;
+    font-family: Roboto Slab;
 }
 
 .camping-card {
@@ -269,6 +270,7 @@ footer {
     display: flex;
     justify-content: space-around;
     align-items: center;
+    font-family: Roboto Slab;
 }
 
 .home-grid {
