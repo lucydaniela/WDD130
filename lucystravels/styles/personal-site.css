@@ -9,6 +9,7 @@
 .home-title,
 .msg h2 {
     font-family: Roboto Light;
+
     /* margin-left: auto; */
 }
 /* 
@@ -286,7 +287,7 @@ footer {
 
 h1.home-title {
     font-size: 80px;
-    margin-top: 100px;
+    margin-top: -350px;
     
 }
 
@@ -381,6 +382,7 @@ h4{
 
 .section1 p {
     margin-top: 100px;
+    font-size: 20px;
 }
 
 .section1 h1 {
@@ -428,7 +430,7 @@ margin-left: 150px;
 .section3 h1 {
 margin-top: -200px; 
 margin-left: 250px; 
-font-size: 200;
+font-size: 20;
 
 }
 .section4 p {
@@ -555,9 +557,10 @@ font-size: 200;
     text-indent: 150px;
 }
 
-.text h2 { 
+.text p { 
     margin-left: -20px;
     margin-top: 50px;
+    font-size: 20px;
 
 }
 
